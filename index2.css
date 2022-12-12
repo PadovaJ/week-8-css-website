@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;
+
+}
+container {
+    font-family: kasmir;
+    font-size: 24px;
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+    outline: dashed 1px black;
+  }
+  h1 {
+    text-align: center;
+    font-family: kashmir;
+    font-size: 75px;
+    color: blue;
+  }
+div {
+    color: blue;
+    font-family: kashmir;
+}

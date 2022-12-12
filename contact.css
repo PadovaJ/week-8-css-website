@@ -1,0 +1,26 @@
+body{
+background-color: blue;
+text-align: center;
+
+}
+h1{
+    font-family: kashmir;
+    color: aliceblue;
+    font-weight:bolder;
+    font-size: 100px;
+    background-color: black;
+    margin-bottom: 75px;
+    margin-right: 25px;
+    margin-left:25px;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;
+    font-size: xx-large;
+}
+th, td {
+    padding 8px;
+    text-align: left;
+    border-bottom: solid black;
+
+}
